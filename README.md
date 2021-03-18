@@ -1,2 +1,2 @@
-# med1x
-hobby project for web learning
+# 
+hobby projects using maven/java/jersey/java.ws.rs for web/api learning
